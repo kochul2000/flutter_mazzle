@@ -62,8 +62,7 @@ class _JoinPageState extends State<JoinPage> {
       case 3:  // 완료
         _isContinuable = true;
         _isCancelable = false;
-
-        
+        // test
         break;
     }
   }
