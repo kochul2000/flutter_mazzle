@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "364219293429",
+    "firebase_url": "https://mazzle-248f4.firebaseio.com",
+    "project_id": "mazzle-248f4",
+    "storage_bucket": "mazzle-248f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364219293429:android:3bd7c05ba6e49e00",
+        "android_client_info": {
+          "package_name": "kr.co.theocompany.mazzle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364219293429-21s339u8k36s7irp8p8ij796lmsl9es9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.co.theocompany.mazzle",
+            "certificate_hash": "ce9de0ad1e4e365c7d310d396da78dd38f6798e0"
+          }
+        },
+        {
+          "client_id": "364219293429-o8avit74tfi47lu1dc62hvj2c8l9na3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXPbE6llT91sXfqWVCAIUbfKHGNWayKAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364219293429-o8avit74tfi47lu1dc62hvj2c8l9na3k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "364219293429-3fisd98s5q5ijv9js4ohmjgjgd2vvsva.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kr.co.theocompany.mazzle"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364219293429:android:28622ce3b0877eaf",
+        "android_client_info": {
+          "package_name": "kr.co.theocompany.mazzle.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364219293429-o8avit74tfi47lu1dc62hvj2c8l9na3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXPbE6llT91sXfqWVCAIUbfKHGNWayKAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364219293429-o8avit74tfi47lu1dc62hvj2c8l9na3k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "364219293429-3fisd98s5q5ijv9js4ohmjgjgd2vvsva.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kr.co.theocompany.mazzle"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364219293429:android:040dc33b061de885",
+        "android_client_info": {
+          "package_name": "kr.co.theocompany.mazzleadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364219293429-f4q8k8kfdgg31q7ub6m62q5sa8l67t9s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.co.theocompany.mazzleadmin",
+            "certificate_hash": "5b7fd65e2ab85c051466c1c5315ecbec83c3df5a"
+          }
+        },
+        {
+          "client_id": "364219293429-o8avit74tfi47lu1dc62hvj2c8l9na3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXPbE6llT91sXfqWVCAIUbfKHGNWayKAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364219293429-o8avit74tfi47lu1dc62hvj2c8l9na3k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "364219293429-3fisd98s5q5ijv9js4ohmjgjgd2vvsva.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kr.co.theocompany.mazzle"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
